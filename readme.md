@@ -1,6 +1,6 @@
 # TrustScore — Confidence-Aware ML with Calibration & Trust Modeling
 
-> **A production-style machine learning system that learns *when* to trust predictions — not just *what* to predict.**
+> **A production-style machine learning system that learns *when* to trust predictions not just *what* to predict.**
 
 ---
 
