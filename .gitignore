@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Metaflow
+.metaflow/
+
+# MLflow
+mlruns/
+
+# Artifacts / outputs
+artifacts/
