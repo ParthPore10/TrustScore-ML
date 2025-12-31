@@ -158,7 +158,6 @@ class TrustScoreFlow(FlowSpec):
         self.y_val = ref.y_val
         self.y_test = ref.y_test
 
-        # now safe to bundle
         self.data_bundle = {
             "x_train": self.x_train,
             "x_val": self.x_val,
